@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe Game &#x274C; &#x2B55;
 
 ## Introduction
 
