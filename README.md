@@ -57,7 +57,7 @@ chmod +x start.sh
 1. The game is designed to be played by two players.
 2. Players input their names at the start of the game.
 3. The game starts with an empty 3x3 grid.
-4. Players take turns to place their mark (X or O) on the grid.
+4. Players take turns to place their mark (&#x274C; or &#x2B55;) on the grid.
 5. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
 6. If the grid is full and no player has won, the game ends in a draw/tie.
 7. Players can restart the game at any time by pressing the 'r' key.
